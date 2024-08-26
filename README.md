@@ -67,4 +67,4 @@ While contributions to this repository are not accepted, you are welcome to fork
 
 ### License
 
-This project is currently not licensed. All rights reserved. You are not permitted to use, modify, or distribute this code without explicit permission from the author.
+This project is currently not licensed. All rights reserved. You are not permitted to modify this code without explicit permission from the author.
