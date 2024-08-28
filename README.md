@@ -5,19 +5,13 @@ An application for learning Data Structures and Algorithm by visualizing algorit
 
 ### Table of Contents
 
-- [Technologies](#technologies)
 - [Overview](#overview)
 - [Features](#features)
+- [Technologies](#technologies)
 - [Run Locally](#run-locally)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-### Technologies
-
-- Python 3.9.13
-- Tkinter: The standard Python interface to the Tk GUI toolkit
-- IDE: Visual Studio Code
 
 ### Overview
 
@@ -30,6 +24,12 @@ The Algorithm Visualizer is a Python application built with Tkinter that allows 
 - Custom Input: Users can input custom arrays to see how the algorithms handle different data sets.
 - Real-Time Visualization: Watch the algorithms in action as they sort the data step-by-step.
 - Educational Tool: Great for learning and teaching the inner workings of sorting algorithms.
+
+### Technologies
+
+- Python 3.9.13
+- Tkinter: The standard Python interface to the Tk GUI toolkit
+- IDE: Visual Studio Code
 
 ### Run Locally
 
